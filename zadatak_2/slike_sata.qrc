@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/slike_sata">
+        <file>sat1.png</file>
+        <file>sat2.png</file>
+    </qresource>
+</RCC>
